@@ -1,0 +1,9 @@
+.recent {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+    font-weight: 700;
+    font-size: 1.4rem;
+    border-bottom: 1px solid var(--var-background);
+}
